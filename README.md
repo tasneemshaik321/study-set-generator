@@ -18,6 +18,10 @@ The app routes AI requests through a server-side proxy in `server.js` so the API
 - GitHub Copilot for code suggestions and implementation guidance
 - Local reasoning and review for final behavior and UI decisions
 
+## Demo
+
+- [Watch the project demo](https://drive.google.com/file/d/1B_M8zr_K6vdmbn6x-f-qhcJKMqbsjLBj/view?usp=sharing)
+
 ## Features
 - Free-form note input
 - Structured AI response parsed into flashcards
